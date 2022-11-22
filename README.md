@@ -1,2 +1,1 @@
-# flask-app-template
-Template repo for any flask apps
+# app_rename_me
